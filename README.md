@@ -1,6 +1,6 @@
-# Nesterov Neural Ordinary Differential Equations
+# Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method
 
-This is the official implementation of Nesterov Neural Ordinary Differential Equations. 
+This is the official implementation of Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method (NeurIPS 2022). 
 
 ## Main requirements
 The code base in in Python. The following packages are required:
